@@ -1,6 +1,19 @@
 body{
 }
-#banner{
+#banner {
 }
 .principal{
+        background:#CCCCCC;
+        padding:30px
+}
+h1 {
+       text-align:center;
+}
+p {
+       text-align:center;
+#missao{
+       font-again:center;
+}
+em strong {  
+      color:#Ff0000;
 }
